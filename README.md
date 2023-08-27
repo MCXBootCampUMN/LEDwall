@@ -40,10 +40,7 @@ Being able to create a LED screen where one can edited the message by clicking o
 
 #### images
 
-<img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/d1%20Start.png">
+<img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/MCXBootCampUMN/LEDwall/main/LEDwall.png">
 
-<img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/2%2d0Mid.png">
 
-<img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/3%2d0Final.png">
-
-#### Thank you
+#### Thank you for checking out this Repo
