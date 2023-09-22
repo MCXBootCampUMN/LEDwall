@@ -32,11 +32,11 @@ Being able to create a LED screen where one can edited the message by clicking o
 #### Site
 
 ## **_Link URL to deployed website on GitHub_**
-[Github-Project](https://mcxbootcampumn.github.io/LEDwall/)
+[Github-Project](https://Maxamed-NCX.github.io/LEDwall/)
 
 ## **_Link URL to GitHub Repository_**
 
-[Github-Repo](https://github.com/MCXBootCampUMN/LEDwall)
+[Github-Repo](https://github.com/Maxamed-NCX/LEDwall)
 
 #### images
 
