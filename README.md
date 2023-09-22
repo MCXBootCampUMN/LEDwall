@@ -1,4 +1,4 @@
-# LEDwall
+# LEDwall (JS)
 ![GitHub repo size](https://img.shields.io/github/repo-size/MCXBootCampUMN/LEDwall)
 ![GitHub top language](https://img.shields.io/github/languages/top/MCXBootCampUMN/LEDwall)
 
