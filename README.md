@@ -2,6 +2,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/MCXBootCampUMN/LEDwall)
 ![GitHub top language](https://img.shields.io/github/languages/top/MCXBootCampUMN/LEDwall)
 
+## Portfolio 1 Project Application 2 (JS)
 
 ### Purpose
 
