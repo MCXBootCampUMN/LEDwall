@@ -6,7 +6,7 @@
 
 ### Purpose
 
-Being able to create a LED screen where one can edited the message by clicking on the circle to turn it "On" or "Off" changing the shape 
+Being able to create a LED screen where one can edited the message by clicking on the circle to turn it "On" or "Off" it changes the shape and can display different messange
 
 ### How to use
 
